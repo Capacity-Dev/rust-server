@@ -12,7 +12,7 @@ git clone https://github.com/Capacity-Dev/rust-server.git
 Navigate to the project directory with the following command:
 
 ```bash
-cd rust-web-server
+cd rust-server
 ```
 To install the dependencies, use the following command:
 
